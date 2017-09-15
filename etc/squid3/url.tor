@@ -1,0 +1,7 @@
+^https?.*facebook.*
+^https?.*addthis.*
+^https?.*ustream\.tv.*
+^https?.*livejournal\.com.*
+^https?.*2ip\.ru.*
+^http?.*myip\.ru.*
+^http?.*rutracker\.org.*
